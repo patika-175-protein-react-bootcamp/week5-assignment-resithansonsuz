@@ -4,6 +4,9 @@
 
 
 <hr>
+
+The live version of the project is the link here  <a href="https://react-register-page-oflq619p5-resithansonsuz.vercel.app/" target="_blank">Click</a> 
+
 <hr>
 
 *Light Mode*
